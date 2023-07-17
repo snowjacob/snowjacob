@@ -29,8 +29,8 @@ Software Development Lifecycle: Agile, Scrum
 <Summary> 📫 Contact </summary>
 <br>
 
-Email: [link text](jacobsnow27@gmail.com)
-LinkedIn: [link text](linkedin.com/in/jacob-snow-ab29c34)
+Email: [jacobsnow27@gmail.com](jacobsnow27@gmail.com)
+LinkedIn: [linkedin.com/in/jacob-snow-ab29c34](linkedin.com/in/jacob-snow-ab29c34)
 Feel free to reach out to me if you'd like to discuss any exciting opportunities or collaborate on interesting projects. I'm always open to new challenges and eager to expand my skill set.
 </details>
 
