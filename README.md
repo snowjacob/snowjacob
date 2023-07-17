@@ -1,21 +1,22 @@
 # 🌇 Jacob Snow
 
 **`Software Engineer / Data Scientist`**
-***
 
 Hello there! I'm a full-stack developer with a deep-seated interest in Artificial-Intelligence Engineering, utilizing skills in Machine Learning, Data Structures, Numerical Analysis, and Numerical Optimization. The software I design is from square one, where I strive to creative efficienct and innovative solutions to complex problems.
 
+***
+
 ### 🚀 Skills
 
-Programming Languages: Java, Python, C++, JavaScript\
-Machine Learning: TensorFlow, PyTorch, scikit-learn\
-Data Analysis: Pandas, NumPy, SQL\
-Web Development: HTML, CSS, React, Node.js\
-Databases: MySQL\
-Version Control: Git, GitHub\
-Mathematical Libraries: MATLAB, SciPy\
-Problem Solving: Algorithms, Data Structures, Optimization\
-Software Development Lifecycle: Agile, Scrum\
+* Programming Languages: Java, Python, C++, JavaScript
+* Machine Learning: TensorFlow, PyTorch, scikit-learn
+* Data Analysis: Pandas, NumPy, SQL
+* Web Development: HTML, CSS, React, Node.js
+* Databases: MySQL
+* Version Control: Git, GitHub
+* Mathematical Libraries: MATLAB, SciPy
+* Problem Solving: Algorithms, Data Structures, Optimization
+* Software Development Lifecycle: Agile, Scrum
 
 <details>
 <summary> 🌱 Education </summary>
@@ -28,8 +29,7 @@ Software Development Lifecycle: Agile, Scrum\
 <details>
 <Summary> 📫 Contact </summary>
 <br>
-
-Email: [jacobsnow27@gmail.com](jacobsnow27@gmail.com)\
+  
 LinkedIn: [linkedin.com/in/jacob-snow-ab29c34](linkedin.com/in/jacob-snow-ab29c34)\
 Feel free to reach out to me if you'd like to discuss any exciting opportunities or collaborate on interesting projects. I'm always open to new challenges and eager to expand my skill set.
 </details>
