@@ -1,16 +1,47 @@
-### Hi there 👋
+# 🌇 Jacob Snow
 
-<!--
-**snowjacob/snowjacob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**'Software Engineer / Data Scientist / Mathematician'**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hello there! I'm a full-stack developer with a deep-seated interest in Artificial-Intelligence Engineering, utilizing skills in Machine Learning, Data Structures, Numerical Analysis, and Numerical Optimization. The software I design is from square one, where I strive to creative efficienct and innovative solutions to complex problems.
+
+---
+
+<details>
+<summary> 🚀 Skills </summary>
+<br>
+
+Programming Languages: Java, Python, C++, JavaScript
+Machine Learning: TensorFlow, PyTorch, scikit-learn
+Data Analysis: Pandas, NumPy, SQL
+Web Development: HTML, CSS, React, Node.js
+Databases: MySQL
+Version Control: Git, GitHub
+Mathematical Libraries: MATLAB, SciPy
+Problem Solving: Algorithms, Data Structures, Optimization
+Software Development Lifecycle: Agile, Scrum
+</details>
+
+---
+
+<details>
+<summary> 🌱 Education </summary>
+<br>
+
+**'Bachelor of Science in Mathematics and Computer Science | Western Washington University'**
+2018 - 2023
+</details>
+
+---
+
+<details>
+<Summary> 📫 Contact </summary>
+<br>
+
+Email: [link text](jacobsnow27@gmail.com)
+LinkedIn: [link text](linkedin.com/in/jacob-snow-ab29c34)
+Feel free to reach out to me if you'd like to discuss any exciting opportunities or collaborate on interesting projects. I'm always open to new challenges and eager to expand my skill set.
+</details>
+
+#### Let's create amazing things together! 🚀
