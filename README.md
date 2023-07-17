@@ -1,16 +1,12 @@
 # 🌇 Jacob Snow
 
-**'Software Engineer / Data Scientist / Mathematician'**
+**'Software Engineer / Data Scientist'**
 
 ---
 
 Hello there! I'm a full-stack developer with a deep-seated interest in Artificial-Intelligence Engineering, utilizing skills in Machine Learning, Data Structures, Numerical Analysis, and Numerical Optimization. The software I design is from square one, where I strive to creative efficienct and innovative solutions to complex problems.
 
----
-
-<details>
-<summary> 🚀 Skills </summary>
-<br>
+### 🚀 Skills
 
 Programming Languages: Java, Python, C++, JavaScript
 Machine Learning: TensorFlow, PyTorch, scikit-learn
@@ -21,9 +17,6 @@ Version Control: Git, GitHub
 Mathematical Libraries: MATLAB, SciPy
 Problem Solving: Algorithms, Data Structures, Optimization
 Software Development Lifecycle: Agile, Scrum
-</details>
-
----
 
 <details>
 <summary> 🌱 Education </summary>
@@ -32,8 +25,6 @@ Software Development Lifecycle: Agile, Scrum
 **'Bachelor of Science in Mathematics and Computer Science | Western Washington University'**
 2018 - 2023
 </details>
-
----
 
 <details>
 <Summary> 📫 Contact </summary>
