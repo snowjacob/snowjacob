@@ -30,7 +30,7 @@ Hello there! I'm a full-stack developer with a deep-seated interest in Artificia
 <Summary> 📫 Contact </summary>
 <br>
   
-LinkedIn: [linkedin.com/in/jacob-snow-ab29c34](www.linkedin.com/in/jacob-snow-ab29c34)\
+LinkedIn: [linkedin.com/in/jacob-snow-ab29c34](https://www.linkedin.com/in/jacob-snow-ab29c34)\
 Feel free to reach out to me if you'd like to discuss any exciting opportunities or collaborate on interesting projects. I'm always open to new challenges and eager to expand my skill set.
 </details>
 
