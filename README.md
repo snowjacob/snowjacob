@@ -2,7 +2,7 @@
 
 **`Software Engineer / Data Scientist`**
 
-Hello there! I'm a full-stack developer with a deep-seated interest in Artificial-Intelligence Engineering, utilizing skills in Machine Learning, Data Structures, Numerical Analysis, and Numerical Optimization. The software I design is from square one, where I strive to creative efficienct and innovative solutions to complex problems.
+Hello there! I'm a full-stack developer with a deep-seated interest in Artificial-Intelligence Engineering, utilizing skills in Machine Learning, Data Structures, Numerical Analysis, and Numerical Optimization. The software I design is from square one, where I strive to implement creative, efficienct, and innovative solutions to complex problems.
 
 ***
 
