@@ -8,10 +8,10 @@ Hello there! I'm a full-stack developer with a deep-seated interest in Artificia
 
 ### 🚀 Skills
 
-* Programming Languages: Java, Python, C++, JavaScript
+* Programming Languages: Java, Python, C/C++, JavaScript, C#(.NET)
 * Machine Learning: TensorFlow, PyTorch, scikit-learn
 * Data Analysis: Pandas, NumPy, SQL
-* Web Development: HTML, CSS, React, Node.js
+* Web Development: HTML, CSS, Django, Streamlit, React, Node.js
 * Databases: MySQL
 * Version Control: Git, GitHub
 * Mathematical Libraries: MATLAB, SciPy
